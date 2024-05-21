@@ -1,6 +1,6 @@
 name: fingerprint_auth
 description: A package for fingerprint authentication container with functionality that you can modify variables.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/Casm9/fingerprint_auth
 repository: https://github.com/Casm9/fingerprint_auth.git
 

@@ -11,7 +11,7 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages).
 -->
 
-The fingerprint authentication package contains a number of useful containers with functionality that can help you with building fingerprint authentication screens for your app. The package contains image container, description and result text.
+The fingerprint authentication package contains a number of useful containers with functionality that can help you with building fingerprint authentication screens for your app. The package contains description and result text.
 
 
 ## Features
@@ -21,7 +21,7 @@ Will be added later.
 ## Getting started
 
 packages need for use this library:
-# local_auth: ^2.2.0 (use their latest version)
+### local_auth: ^2.2.0 (use their latest version)
 
 
 ## Usage

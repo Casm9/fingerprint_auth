@@ -17,7 +17,7 @@ class FingerprintAuth extends StatefulWidget {
       this.titleFontSize,
       this.titleFontWeight,
       this.verticalMarginBody,
-      this.imageWidth,
+      //this.imageWidth,
       this.bodyText = "Fingerprint Auth",
       this.bodyTextColor,
       this.bodyTextFontSize,
@@ -47,7 +47,7 @@ class FingerprintAuth extends StatefulWidget {
   final double? titleFontSize;
   final FontWeight? titleFontWeight;
   final double? verticalMarginBody;
-  final double? imageWidth;
+  //final double? imageWidth;
   final String bodyText;
   final Color? bodyTextColor;
   final double? bodyTextFontSize;
@@ -158,11 +158,12 @@ class FingerprintAuthState extends State<FingerprintAuth> {
                 margin: EdgeInsets.symmetric(
                     vertical: widget.verticalMarginBody ?? 50.0),
                 child: Column(
-                  children: [
+                  children: [ /*
                     Image.asset(
                       'assets/fingerprint.png',
                       width: widget.imageWidth ?? 120.0,
                     ),
+                    */
                     Text(
                       widget.bodyText,
                       style: TextStyle(
