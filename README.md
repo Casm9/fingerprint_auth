@@ -18,12 +18,6 @@ The fingerprint authentication package contains a number of useful containers wi
 
 Will be added later.
 
-## Getting started
-
-packages need for use this library:
-### local_auth: ^2.2.0 (use their latest version)
-
-
 ## Usage
 
 ```dart
