@@ -16,7 +16,8 @@ The fingerprint authentication package contains a number of useful containers wi
 
 ## Features
 
-Will be added later.
+![](https://raw.githubusercontent.com/Casm9/my-github-storage/main/finger_first_page.jpg)
+![](https://raw.githubusercontent.com/Casm9/my-github-storage/main/finger_second_page.jpg)
 
 ## Usage
 
